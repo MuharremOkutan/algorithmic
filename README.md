@@ -21,7 +21,7 @@ Big parts of these requirements can be met with good, automated testing framewor
 
 #### Home page
 
-[Algorithmic Trading](http://empirica.pl)
+[Handel Algorytmiczny](http://empirica.pl)
 
 We try to build the platform for algo trading there, and this project is to create testing framework to support the developement of the platform.
 
