@@ -9,4 +9,4 @@ Algorithmic Trading - help, tests and other stuff
 
 #### Home page
 
-[http://empirica.pl](http://kenwheeler.github.io/slick/)
+[Algorithmic Trading](http://empirica.pl)
